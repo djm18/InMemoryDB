@@ -1,9 +1,11 @@
-Prereqs:
-Have java installed
+# README
 
-Running the program:
+# Prereqs:
+Have java installed on your computer
+
+# Running the program:
 Open your terminal or command prompt and navigate to the directory containing InMemoryDB.java.
 
-Compile by running "javac InMemoryDB.java"
+Compile by running `javac InMemoryDB.java`
 
-Run by running: 'java InMemoryDB'
+Run by running: `java InMemoryDB`
